@@ -1,0 +1,37 @@
+# Privacy Policy
+
+## Introduction
+
+Creighton JaySearch Browser Extension ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our Chrome extension. This software is in no way affiliated, distributed, or associated with Creighton University.
+
+## Information We Collect
+
+Our extension may collect the following types of information:
+
+- **Context Menu Data**: We collect information about the text you highlight and right-click to search using our extension.
+- **Storage Data**: We may store user preferences and settings locally on your device.
+- **Active Tab Data**: We may access the URL of the active tab to perform searches.
+- **Scripting Data**: We may execute scripts in the context of web pages to provide our services.
+
+## How We Use Your Information
+
+We use the information we collect to:
+
+- Provide and improve our extension's functionality.
+- Customize your experience with our extension.
+- Respond to your inquiries and provide support.
+
+## Information Sharing and Disclosure
+
+We do not share or disclose your personal information to third parties, except as required by law or to protect our rights.
+
+## Data Security
+
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no internet or email transmission is ever fully secure or error-free.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website.
+
+
+Website: [https://github.com/jkor4ever/CreightonJaySearch](https://github.com/jkor4ever/CreightonJaySearch)
