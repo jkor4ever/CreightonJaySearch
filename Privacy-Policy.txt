@@ -9,9 +9,7 @@ Creighton JaySearch Browser Extension ("we", "our", "us") is committed to protec
 Our extension may collect the following types of information:
 
 - **Context Menu Data**: We collect information about the text you highlight and right-click to search using our extension.
-- **Storage Data**: We may store user preferences and settings locally on your device.
 - **Active Tab Data**: We may access the URL of the active tab to perform searches.
-- **Scripting Data**: We may execute scripts in the context of web pages to provide our services.
 
 ## How We Use Your Information
 
